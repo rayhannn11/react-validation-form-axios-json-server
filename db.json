@@ -1,0 +1,19 @@
+{
+  "register": [
+    {
+      "id": 1,
+      "username": "Rayhan",
+      "password": "RayhanNaufal1!"
+    },
+    {
+      "username": "Rayhan",
+      "password": "Rayhannaufal1!",
+      "id": 2
+    },
+    {
+      "username": "Naufal",
+      "password": "Naufalarrafi1!",
+      "id": 3
+    }
+  ]
+}

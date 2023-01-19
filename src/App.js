@@ -1,7 +1,8 @@
+import Register from "./Register";
 function App() {
   return (
-    <div>
-      <h1>Rayhan React Template</h1>
+    <div className="App">
+      <Register />
     </div>
   );
 }
